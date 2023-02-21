@@ -1,0 +1,52 @@
+﻿  main.cpp
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaMath.h(22,6): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaMath.h(23,6): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  yaApplication.cpp
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaMath.h(22,6): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaMath.h(23,6): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaApplication.cpp(28,23): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaApplication.cpp(28,32): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+  yaComponent.cpp
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaMath.h(22,6): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaMath.h(23,6): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  yaCuphead.cpp
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaMath.h(22,6): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaMath.h(23,6): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaCuphead.cpp(23,21): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaCuphead.cpp(28,21): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaCuphead.cpp(39,21): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaCuphead.cpp(44,21): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaCuphead.cpp(58,55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaCuphead.cpp(58,41): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaCuphead.cpp(58,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaCuphead.cpp(58,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  yaEntity.cpp
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaMath.h(22,6): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaMath.h(23,6): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  yaGameObject.cpp
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaMath.h(22,6): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaMath.h(23,6): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  yaInput.cpp
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaMath.h(22,6): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaMath.h(23,6): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  yaLayer.cpp
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaMath.h(22,6): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaMath.h(23,6): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  yaMath.cpp
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaMath.h(22,6): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaMath.h(23,6): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  yaPlayeScene.cpp
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaMath.h(22,6): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaMath.h(23,6): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  yaScene.cpp
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaMath.h(22,6): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaMath.h(23,6): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  yaSceneManager.cpp
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaMath.h(22,6): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaMath.h(23,6): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  yaTime.cpp
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaMath.h(22,6): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaMath.h(23,6): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\Client\yaTime.cpp(27,29): warning C4244: '초기화 중': 'LONGLONG'에서 'double'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  Client.vcxproj -> C:\Users\COM\Desktop\GAME_DEVELOP\ASSORTROCK\수업코드\API\05_DoubleBuffering\x64\Debug\Client.exe
